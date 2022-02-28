@@ -29,6 +29,10 @@ build/
 local.properties
 *.iml
 *.hprof
+index.android.bundle
+android/app/src/main/res/drawable-*/src_*.png
+android/app/src/main/res/drawable-*/src_*.jpg
+android/app/src/main/res/drawable-*/node_modules_*.png
 
 # node.js
 #
